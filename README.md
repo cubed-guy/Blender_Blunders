@@ -5,6 +5,7 @@ Specific issues are highlighted here, to make the next unlucky soul's visit here
 
 - **BB_Table** : The table is missing a leg. You can additionally spice up the tabletop by adding some coffee for the artist (in a mug preferably).
 - **BB_Katana** : Oh no! The katana fell. Place it back into the holder.
+- **BB_Cutlery** : Fix the camera angles. Also add some glasses to the scene.
 
 ### Requirements to run:
 - [Blender](https://www.blender.org/download/)
