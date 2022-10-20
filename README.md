@@ -3,7 +3,7 @@ This repository consists of a few blender files, all of which were made using a 
 
 Specific issues are highlighted here, to make the next unlucky soul's visit here easier:
 
-- BB_Table has a missing leg. You can spice up the tabletop by adding some coffee for the artist (in a mug preferably).
+- BB_Table has a missing leg. You can additionally spice up the tabletop by adding some coffee for the artist (in a mug preferably).
 - 
 
 ### Requirements to run:
