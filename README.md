@@ -17,6 +17,9 @@ Specific issues are highlighted here, to make the next unlucky soul's visit here
 - Make sure to test renders on the Eevee render engine, if you do not have a dedicated Graphics card.
 - Remember to save your files!
 
+### Maintainer in-charge
+[Advaith Nair](https://github.com/RazerAds)
+
 ### Rules to contribute
 
 Check out these [Contributing Guidelines](https://github.com/acmpesuecc/NoSpoilers/blob/main/CONTRIBUTION.md) to learn more!
