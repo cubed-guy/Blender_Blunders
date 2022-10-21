@@ -17,6 +17,16 @@ Specific issues are highlighted here, to make the next unlucky soul's visit here
 - By default the files have their render settings set at 100 samples in Cycles.
 - Make sure to test renders on the Eevee render engine, if you do not have a dedicated Graphics card.
 - Remember to save your files!
+- In case any of the textures show up pink, you will have to add the texture provided manually, through the shader editor.
+
+### Resources 
+- [Get started with donuts](https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+- [Shading and Textures](https://www.youtube.com/watch?v=moKFSMJwpmE&t=203s)
+- [Modelling](https://www.youtube.com/watch?v=Hf2esGA7vCc)
+- [UV Unwrapping](https://www.youtube.com/watch?v=GTd8NBg8EZU)
+- [Lighting](https://www.youtube.com/watch?v=si7UAgvBd4Y)
+- [5 minute Tutorials about **that** problem](https://www.youtube.com/c/DefaultCube)
+- [Automatic Modelling](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Maintainer in-charge
 [Advaith Nair](https://github.com/RazerAds)
