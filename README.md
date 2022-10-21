@@ -7,7 +7,7 @@ Specific issues are highlighted here, to make the next unlucky soul's visit here
 - **BB_Katana** : Oh no! The katana fell. Place it back into the holder.
 - **BB_Dinner** : Fix the camera angles. Also add some glasses to the scene.
 
-### Requirements to run:
+### Requirements to run
 - [Blender](https://www.blender.org/download/)
 - [Mouse](https://rukminim1.flixcart.com/image/800/800/jfoac280/mouse/w/s/2/disney-mickey-mouse-wired-pc-laptop-computer-original-imaf4fvyrteuc2pp.jpeg?q=90)
 
