@@ -17,7 +17,7 @@ Specific issues are highlighted here, to make the next unlucky soul's visit here
 - By default the files have their render settings set at 100 samples in Cycles.
 - Make sure to test renders on the Eevee render engine, if you do not have a dedicated Graphics card.
 - Remember to save your files!
-- In case any of the textures show up pink, you will have to add the texture provided manually, through the shader editor.
+- In case any of the textures show up pink (i.e. untextured), you will have to add the texture provided manually, through the shader editor.
 
 ### Resources 
 - [Get started with donuts](https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
